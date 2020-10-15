@@ -1,0 +1,13 @@
+C:\Users\maxbo\source\repos\allowKeys\allowKeys\bin\Debug\netcoreapp3.1\allowKeys.exe
+C:\Users\maxbo\source\repos\allowKeys\allowKeys\bin\Debug\netcoreapp3.1\allowKeys.deps.json
+C:\Users\maxbo\source\repos\allowKeys\allowKeys\bin\Debug\netcoreapp3.1\allowKeys.runtimeconfig.json
+C:\Users\maxbo\source\repos\allowKeys\allowKeys\bin\Debug\netcoreapp3.1\allowKeys.runtimeconfig.dev.json
+C:\Users\maxbo\source\repos\allowKeys\allowKeys\bin\Debug\netcoreapp3.1\allowKeys.dll
+C:\Users\maxbo\source\repos\allowKeys\allowKeys\bin\Debug\netcoreapp3.1\allowKeys.pdb
+C:\Users\maxbo\source\repos\allowKeys\allowKeys\obj\Debug\netcoreapp3.1\allowKeys.csprojAssemblyReference.cache
+C:\Users\maxbo\source\repos\allowKeys\allowKeys\obj\Debug\netcoreapp3.1\allowKeys.AssemblyInfoInputs.cache
+C:\Users\maxbo\source\repos\allowKeys\allowKeys\obj\Debug\netcoreapp3.1\allowKeys.AssemblyInfo.cs
+C:\Users\maxbo\source\repos\allowKeys\allowKeys\obj\Debug\netcoreapp3.1\allowKeys.csproj.CoreCompileInputs.cache
+C:\Users\maxbo\source\repos\allowKeys\allowKeys\obj\Debug\netcoreapp3.1\allowKeys.dll
+C:\Users\maxbo\source\repos\allowKeys\allowKeys\obj\Debug\netcoreapp3.1\allowKeys.pdb
+C:\Users\maxbo\source\repos\allowKeys\allowKeys\obj\Debug\netcoreapp3.1\allowKeys.genruntimeconfig.cache
