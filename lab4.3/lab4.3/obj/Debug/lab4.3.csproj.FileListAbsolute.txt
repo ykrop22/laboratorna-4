@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\навчання\OOn\лаб4\lab4.3\lab4.3\obj\Debug\lab4.3.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\навчання\OOn\лаб4\lab4.3\lab4.3\bin\Debug\lab4.3.exe.config
+C:\Users\Admin\Desktop\навчання\OOn\лаб4\lab4.3\lab4.3\bin\Debug\lab4.3.exe
+C:\Users\Admin\Desktop\навчання\OOn\лаб4\lab4.3\lab4.3\bin\Debug\lab4.3.pdb
+C:\Users\Admin\Desktop\навчання\OOn\лаб4\lab4.3\lab4.3\obj\Debug\lab4.3.exe
+C:\Users\Admin\Desktop\навчання\OOn\лаб4\lab4.3\lab4.3\obj\Debug\lab4.3.pdb
